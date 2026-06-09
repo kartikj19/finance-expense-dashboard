@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1a3f9e6a-7b44-4f2d-a1a1-111111111111",
+    "description": "Grocery shopping - Weekly",
+    "amount": 1840,
+    "category": "Groceries",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "2b4a0c7b-8c55-4a3f-b2b2-222222222222",
+    "description": "Lunch - Cafe",
+    "amount": 320,
+    "category": "Food",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "3c5b1d8c-9d66-4b50-c3c3-333333333333",
+    "description": "Monthly rent",
+    "amount": 15000,
+    "category": "Rent",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "4d6c2e9d-0e77-4c61-d4d4-444444444444",
+    "description": "Internet bill",
+    "amount": 799,
+    "category": "Utilities",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "6f8e40bc-20a9-4e83-f6f6-666666666666",
+    "description": "Taxi to office",
+    "amount": 220,
+    "category": "Transport",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "7g9f51cd-31ba-4f94-0707-777777777777",
+    "description": "Doctor consultation",
+    "amount": 1200,
+    "category": "Health",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "8h0g62de-42cb-40a5-1818-888888888888",
+    "description": "Coffee and snacks",
+    "amount": 260,
+    "category": "Food",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "9i1h73ef-53dc-41b6-2929-999999999999",
+    "description": "Gym subscription",
+    "amount": 999,
+    "category": "Health",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "0j2i84f0-64ed-42c7-3030-000000000000",
+    "description": "Office stationery",
+    "amount": 450,
+    "category": "Misc",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "a3k39501-75fe-43d8-4141-aaaaaaaaaaaa",
+    "description": "Electricity bill",
+    "amount": 2200,
+    "category": "Utilities",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "b4l4a512-86gf-44e9-5252-bbbbbbbbbbbb",
+    "description": "Weekend dinner",
+    "amount": 1300,
+    "category": "Food",
+    "date": "2026-04-24"
+  }
+]
